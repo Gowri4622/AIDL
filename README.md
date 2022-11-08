@@ -217,9 +217,9 @@ interface IAIDLColorInterface {
 }
 ```
 ## OUTPUT:
-![image](https://user-images.githubusercontent.com/75234991/200133874-9e9c970e-d7ba-42a7-ad1d-991bc8d02cc4.png)
 
-![image](https://user-images.githubusercontent.com/75234991/200134084-bb57b7b8-c2bd-49a9-ae7f-1e05f420ee28.png)
+![Screenshot_10](https://user-images.githubusercontent.com/75235455/200613589-5e3d4d2d-5e72-4464-9ad6-b312b742c3a9.png)
+![Screenshot_9](https://user-images.githubusercontent.com/75235455/200613690-d3d2fe28-52cb-4594-8c52-01eaef99931b.png)
 
 ## RESULT:
 Thus, a Simple Android Application to create a AIDL interface and communicate the process between client and server using AIDL interface in Android Studio is developed and executed successfully.
