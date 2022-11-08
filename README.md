@@ -29,8 +29,8 @@ Step 7: Save and run the application.
 ```
 /*
 Program to interface the client/server services using AIDL.
-Developed by        : Y Chethan
-Registration Number : 212220230008
+Developed by        : Gowri M
+Registration Number : 212220230019
 */
 ```
 ### AIDLServer
@@ -192,7 +192,7 @@ public class MainActivity extends AppCompatActivity {
         android:id="@+id/button"
         android:layout_width="289dp"
         android:layout_height="324dp"
-        android:text="Change My Color"
+        android:text="Click here to Change Color"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.498"
